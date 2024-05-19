@@ -1,4 +1,4 @@
-# Jobsity - Front-end Javascript Challenge
+# Jobsity - Front-end React Challenge
 
 <div>
     <img src="https://raw.githubusercontent.com/kawanofer/jobsity-react-challenge-2024/main/src/assets/calendar.png"/>
@@ -10,7 +10,7 @@
 
 This project is designed to test your knowledge of front-end web technologies and assess your ability to create front-end UI products with attention to details, cross-browser compatibility, standards, and reusability.
 
-### Mandatory Features
+## Mandatory Features
 
 - [x] Ability to add a new "reminder" (max 30 chars) for a user entered day and time. Also, include a city.
 - [x] Display reminders on the calendar view in the correct time order.
@@ -19,13 +19,13 @@ This project is designed to test your knowledge of front-end web technologies an
 - [x] Add a weather service call from a free API such as Open Weather Map, and get the weather forecast (ex. Rain) for the date of the calendar reminder based on the city.
 - [x] Unit test the functionality: Ability to add a new "reminder" (max 30 chars) for a user entered day and time. Also, include a city.
 
-### Bonus (Optional)
+## Bonus (Optional)
 
 - [ ] Expand the calendar to support more than the current month.
 - [x] Properly handle overflow when multiple reminders appear on the same date.
 - [x] Functionality to delete one or ALL the reminders for a specific day
 
-### Considerations
+## Considerations
 
 - [x] Redux (or any other state manager) structure of the calendar.
 - [x] The project is totally focused on the front-end; please ignore the back-end.
@@ -51,19 +51,19 @@ REACT_APP_WEATHER_BASE_URL="http://dataservice.accuweather.com/"`
 
 After git clone, in the project directory, install all dependecies:
 
-### `yarn install`
+### `npm clone https://github.com/kawanofer/jobsity-react-challenge-2024`
+
+Install dependecies
+
+### `npm install`
 
 After install the dependecies, you can run the project:
 
-### `yarn start`
+### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### `npm test`
 
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Launches the test runner in the interactive watch mode.
