@@ -1,9 +1,9 @@
 # Jobsity - Front-end Javascript Challenge
 
 <div>
-    <img src="https://raw.githubusercontent.com/kawanofer/jobsity-calendar-2024/src/assets/calendar.png"/>
+    <img src="https://raw.githubusercontent.com/kawanofer/jobsity-react-challenge-2024/main/src/assets/calendar.png"/>
     <br/>
-    <img src="https://raw.githubusercontent.com/kawanofer/jobsity-calendar-2024/src/assets/calendarModal.png"/>
+    <img src="https://raw.githubusercontent.com/kawanofer/jobsity-react-challenge-2024/main/src/assets/calendarModal.png"/>
 </div>
 
 ## Description
