@@ -1,0 +1,21 @@
+{
+  "extends": "react-app",
+  "rules": {
+    "react-hooks/exhaustive-deps": "warn",
+    "comma-dangle": ["error", "never"],
+    "object-curly-newline": [
+      "error",
+      { "consistent": true, "minProperties": 10 }
+    ],
+    "no-alert": "error",
+    "no-console": "warn",
+    "react/no-deprecated": "off",
+    "react/jsx-uses-react": "error",
+    "react/jsx-uses-vars": "error",
+    "no-debugger": "off",
+    "space-before-function-paren": "off",
+    "no-tabs": 0,
+    "generator-star-spacing": ["off", { "before": false, "after": false }],
+    "operator-linebreak": ["error", "after"]
+  }
+}
