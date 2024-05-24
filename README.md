@@ -40,11 +40,6 @@ This project is designed to test your knowledge of front-end web technologies an
 
 - Accuweather forecast api ([accuweather](http://dataservice.accuweather.com/))
 
-### .ENV
-
-`REACT_APP_WEATHER_API_KEY="MELaRHGY8yXgPAXKXrguI8GXz5mHy5su"
-REACT_APP_WEATHER_BASE_URL="http://dataservice.accuweather.com/"`
-
 ---
 
 ## Available Scripts
